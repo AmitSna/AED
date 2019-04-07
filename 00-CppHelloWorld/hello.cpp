@@ -1,7 +1,7 @@
 /*
 Trabajo #0: Hola Mundo!
-Descripción: Aplicación de Consola para mostrar string por pantalla
-Autor: Matías Salinas, Curso K1051
+DescripciÃ³n: AplicaciÃ³n de Consola para mostrar string por pantalla
+Autor: MatÃ­as Salinas, Curso K1051
 Fecha: 07/04/2019 (v1.0)
 */
 
