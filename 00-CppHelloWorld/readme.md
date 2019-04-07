@@ -4,6 +4,7 @@
 - Entradas: Ninguna
 - Proceso: Procesar el string a mostrar por consola
 - Salidas: String por consola
+- Compilador: Se utilizó el compilador del Visual Studio 2015
 
 - Etapa #2: Diseño de la solución.
 - Léxico del Algoritmo: std::cout << "Hola Mundo!\n";
