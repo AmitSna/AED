@@ -16,9 +16,10 @@ using namespace std;
 
 int main()
 {
-	double a, b;
+	double a;
 	std::cout << "Ingrese el primer numero: \n";
 	std::cin >> a;
+	double b;
 	std::cout << "Ingrese el segundo numero: \n";
 	std::cin >> b;
 	std::cout << "La suma es igual a " << a + b << "\n";
