@@ -3,11 +3,14 @@
 - Transcripción del problema: Realizar una Aplicación de Consola que reciba dos
 números (double) ingresados por el usuario y muestre la suma de ambos por pantalla.
 
-- Refinamiento del problema e Hipótesis de trabajo: Se crean dos variables de tipo double
-para almacenar los números que ingresará el usuario (uno en cada una), y finalmente se
-muestra por consola la sumatoria de ambos valores contenidos en las dos variables.
+- Refinamiento del problema e Hipótesis de trabajo: Se crea una variable a de tipo double,
+se almacena el primer número que ingresa el usuario en la variable a, 
+se crea una variable b de tipo double,
+se almacena el segundo número que ingresa el usuario en al variable b
+y finalmente se muestra por consola la sumatoria de ambos valores contenidos en las dos variables.
 
 - Modelo IPO:
+- R⨉R ➝ Adición ➝ R
 - Entradas: Dos números por Consola de tipo double
 - Proceso: Almacenar el primer número ingresado la variable a y
 almacenar el segundo número ingresado en la variable b
@@ -27,7 +30,7 @@ a, b ∈ R ^ a + b ∈ R
 
 - Representación visual del Algoritmo (NS, Diagrama de Nassi-Shneiderman):
 
-|Leer a|
+|Read a|
 |:------------- |
-|**Leer b**|
-|**Mostrar a + b**|
+|**Read b**|
+|**Write a + b**|
