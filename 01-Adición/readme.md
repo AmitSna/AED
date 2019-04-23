@@ -26,10 +26,8 @@ a, b ∈ R ^ a + b ∈ R
 3) Se muestra por consola la sumatoria de la variable a con la variable b
 
 - Representación visual del Algoritmo (NS, Diagrama de Nassi-Shneiderman):
-______________
-|   Leer  a   |
-|_____________|
-|   Leer  b   |
-|_____________|
-|Mostrar a + b|
-|_____________|
+
+|Leer a|
+|:------------- |
+|**Leer b**|
+|**Mostrar a + b**|
