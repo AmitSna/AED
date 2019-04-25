@@ -6,7 +6,7 @@ números (double) ingresados por el usuario y muestre la suma de ambos por panta
 - Refinamiento del problema e Hipótesis de trabajo: Se crea una variable a de tipo double,
 se almacena el primer número que ingresa el usuario en la variable a, 
 se crea una variable b de tipo double,
-se almacena el segundo número que ingresa el usuario en al variable b
+se almacena el segundo número que ingresa el usuario en la variable b
 y finalmente se muestra por consola la sumatoria de ambos valores contenidos en las dos variables.
 
 - Modelo IPO:
