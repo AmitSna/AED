@@ -1,5 +1,5 @@
 /*
-Trabajo #1: Adición
+Trabajo #01: Adición
 Descripción: Aplicación de Consola para sumar dos números ingresados y mostrar la suma en pantalla
 Autor: Matías Salinas, Curso K1051
 Fecha: 22/04/2019 (v1.0)
