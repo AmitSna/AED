@@ -15,7 +15,7 @@ Fuente 2: https://stackoverflow.com/questions/37257725/why-do-we-use-include-std
 #include <fstream>
 using namespace std;
 
-int main()
+void main()
 {
 	//Mostrar un string por consola
 	std::cout << "Hola Mundo!\n";
