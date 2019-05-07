@@ -22,7 +22,7 @@ int main()
 	std::cout << "Ingrese el primer numero: \n";
 	std::cin >> a;
 	std::cout << "Ingrese el segundo numero: \n";
-	a += std::cin; //Error sintáctico de compilación
+	a += (double)std::cin; //Error sintáctico de compilación
 	std::cout << "La suma es igual a " << a << "\n";
 	std::cin.get();
 	return 0;
