@@ -16,7 +16,7 @@ Fuente 2: https://stackoverflow.com/questions/37257725/why-do-we-use-include-std
 #include <iostream>
 using namespace std;
 
-int main()
+void main()
 {
 	double a;
 	std::cout << "Ingrese el primer numero: \n";
@@ -25,5 +25,4 @@ int main()
 	a += (double)std::cin; //Error sintáctico de compilación
 	std::cout << "La suma es igual a " << a << "\n";
 	std::cin.get();
-	return 0;
 }
